@@ -34,7 +34,7 @@ export default function Home() {
           src="/phanimapvs.svg"
           alt="Next.js Logo"
           width={880}
-          height={337}
+          height={285}
           priority
         />
       </div>
