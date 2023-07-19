@@ -33,8 +33,8 @@ export default function Home() {
           className={styles.logo}
           src="/phanimapvs.svg"
           alt="Next.js Logo"
-          width={580}
-          height={137}
+          width={880}
+          height={337}
           priority
         />
       </div>
