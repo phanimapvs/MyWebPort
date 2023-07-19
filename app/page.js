@@ -21,7 +21,7 @@ export default function Home() {
               alt="Vercel Logo"
               className={styles.vercelLogo}
               width={100}
-              height={24}
+              height={22}
               priority
             />
           </a>
@@ -32,9 +32,9 @@ export default function Home() {
         <Image
           className={styles.logo}
           src="/phanimapvs.svg"
-          alt="Next.js Logo"
+          alt="title"
           width={880}
-          height={285}
+          height={280}
           priority
         />
       </div>
